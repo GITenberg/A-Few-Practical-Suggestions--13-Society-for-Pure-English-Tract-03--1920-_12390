@@ -1,0 +1,34 @@
+_repo: A-Few-Practical-Suggestions--13-Society-for-Pure-English-Tract-03--1920-_12390
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Smith, Logan Pearsall
+    aliases:
+    - Smith, Lloyd Logan Pearsall
+    - Smith, L. Pearsall (Logan Pearsall)
+    birthdate: 1865
+    deathdate: 1946
+    gutenberg_agent_id: '2793'
+    url: http://www.gutenberg.org/2009/agents/2793
+    wikipedia: http://en.wikipedia.org/wiki/Logan_Pearsall_Smith
+  - agent_name: Society for Pure English
+    alias: English, Society for Pure
+    gutenberg_agent_id: '4335'
+    url: http://www.gutenberg.org/2009/agents/4335
+description: Editorial -- Co-operation of members, etc. -- Report to Easter, 1920.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Provincialisms'
+- !lcsh 'English language -- Obsolete words'
+- !lcsh 'English language -- Foreign words and phrases'
+- !lcc 'PE'
+- GITenberg
+title: "A Few Practical Suggestions\r\nSociety for Pure English, Tract 03 (1920)"
+url: http://www.gutenberg.org/ebooks/12390
